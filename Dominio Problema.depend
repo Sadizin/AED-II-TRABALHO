@@ -1,0 +1,142 @@
+# depslib dependency file v1.0
+1670929247 source:c:\users\gabri\onedrive\documentos\dominio problema\implementbib.cpp
+	<iostream>
+	"bibAssinaturas.h"
+
+1670929842 c:\users\gabri\onedrive\documentos\dominio problema\bibassinaturas.h
+
+1670930653 source:c:\users\gabri\onedrive\documentos\dominio problema\main.cpp
+	<iostream>
+	<clocale>
+	"bibAssinaturas.h"
+	"bibEspecifica.h"
+
+1670930456 source:c:\users\gabri\onedrive\documentos\dominio problema\implemespecifico.cpp
+	<iostream>
+	"bibAssinaturas.h"
+
+1670930526 c:\users\gabri\onedrive\documentos\dominio problema\bibespecifica.h
+
+1670929247 source:g:\meu drive\1-ensino\gradua플o\2022-2\aed-2\aulas\public-2022\2022-12-13-biblioteca-arquitetura\dominio problema\implementbib.cpp
+	<iostream>
+	"bibAssinaturas.h"
+
+1670929842 g:\meu drive\1-ensino\gradua플o\2022-2\aed-2\aulas\public-2022\2022-12-13-biblioteca-arquitetura\dominio problema\bibassinaturas.h
+
+1670931044 source:g:\meu drive\1-ensino\gradua플o\2022-2\aed-2\aulas\public-2022\2022-12-13-biblioteca-arquitetura\dominio problema\implemespecifico.cpp
+	<iostream>
+	"bibAssinaturas.h"
+	"bibEspecifica.h"
+
+1670930526 g:\meu drive\1-ensino\gradua플o\2022-2\aed-2\aulas\public-2022\2022-12-13-biblioteca-arquitetura\dominio problema\bibespecifica.h
+
+1671024846 source:g:\meu drive\1-ensino\gradua플o\2022-2\aed-2\aulas\public-2022\2022-12-13-biblioteca-arquitetura\dominio problema\main.cpp
+	<iostream>
+	<clocale>
+	"bibTAD-LA.h"
+	"bibOpEsp.h"
+
+1671024891 source:g:\meu drive\1-ensino\gradua플o\2022-2\aed-2\aulas\public-2022\2022-12-13-biblioteca-arquitetura\dominio problema\implemtad-la.cpp
+	<iostream>
+	"bibTAD-LA.h"
+
+1671026173 g:\meu drive\1-ensino\gradua플o\2022-2\aed-2\aulas\public-2022\2022-12-13-biblioteca-arquitetura\dominio problema\bibtad-la.h
+
+1671026241 g:\meu drive\1-ensino\gradua플o\2022-2\aed-2\aulas\public-2022\2022-12-13-biblioteca-arquitetura\dominio problema\bibopesp.h
+	"bibTAD-LA.h"
+
+1671026239 source:g:\meu drive\1-ensino\gradua플o\2022-2\aed-2\aulas\public-2022\2022-12-13-biblioteca-arquitetura\dominio problema\implemopesp.cpp
+	<iostream>
+	"bibOpEsp.h"
+
+1671034700 source:c:\users\gabri\onedrive\documentos\2022-12-13-biblioteca-arquitetura\dominio problema\implemopesp.cpp
+	<iostream>
+	"bibTAD-LA.h"
+	"bibOpEsp.h"
+
+1671034734 c:\users\gabri\onedrive\documentos\2022-12-13-biblioteca-arquitetura\dominio problema\bibopesp.h
+
+1671034755 c:\users\gabri\onedrive\documentos\2022-12-13-biblioteca-arquitetura\dominio problema\bibtad-la.h
+
+1671034718 source:c:\users\gabri\onedrive\documentos\2022-12-13-biblioteca-arquitetura\dominio problema\implemtad-la.cpp
+	<iostream>
+	"bibTAD-LA.h"
+
+1671034700 source:c:\users\gabri\onedrive\documentos\2022-12-13-biblioteca-arquitetura\dominio problema\main.cpp
+	<iostream>
+	<clocale>
+	"bibTAD-LA.h"
+	"bibOpEsp.h"
+
+1675811886 source:c:\users\sadim\downloads\dominio problema\implemopesp.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	"bibTAD-LA.h"
+	"bibOpEsp.h"
+
+1675782394 c:\users\sadim\downloads\dominio problema\bibtad-la.h
+
+1675811927 c:\users\sadim\downloads\dominio problema\bibopesp.h
+	<fstream>
+	<string>
+
+1675811886 source:c:\users\sadim\downloads\dominio problema\implemtad-la.cpp
+	<iostream>
+	"bibTAD-LA.h"
+
+1675811886 source:c:\users\sadim\downloads\dominio problema\main.cpp
+	<iostream>
+	<clocale>
+	<fstream>
+	"bibTAD-LA.h"
+	"bibOpEsp.h"
+
+1675880302 source:e:\trabalho final\dominio problema\implemopesp.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	"bibTAD-LA.h"
+	"bibOpEsp.h"
+
+1675819330 e:\trabalho final\dominio problema\bibtad-la.h
+
+1675880262 e:\trabalho final\dominio problema\bibopesp.h
+	<fstream>
+	<string>
+
+1675819330 source:e:\trabalho final\dominio problema\implemtad-la.cpp
+	<iostream>
+	"bibTAD-LA.h"
+
+1675819428 source:e:\trabalho final\dominio problema\main.cpp
+	<iostream>
+	<clocale>
+	<fstream>
+	"bibTAD-LA.h"
+	"bibOpEsp.h"
+
+1675881017 source:c:\users\sadim\downloads\trabalho final - sadi e daniel\trabalhon final\dominio problema\implemopesp.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	"bibTAD-LA.h"
+	"bibOpEsp.h"
+
+1675819330 c:\users\sadim\downloads\trabalho final - sadi e daniel\trabalhon final\dominio problema\bibtad-la.h
+
+1675880262 c:\users\sadim\downloads\trabalho final - sadi e daniel\trabalhon final\dominio problema\bibopesp.h
+	<fstream>
+	<string>
+
+1675819330 source:c:\users\sadim\downloads\trabalho final - sadi e daniel\trabalhon final\dominio problema\implemtad-la.cpp
+	<iostream>
+	"bibTAD-LA.h"
+
+1675819428 source:c:\users\sadim\downloads\trabalho final - sadi e daniel\trabalhon final\dominio problema\main.cpp
+	<iostream>
+	<clocale>
+	<fstream>
+	"bibTAD-LA.h"
+	"bibOpEsp.h"
+
